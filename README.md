@@ -30,7 +30,7 @@ When did the BDRCS HR Policy come into effect?
 Which principles guide the BDRCS HR Policy? 
 What are the strategic goals of the HR Policy guideline?
 
-**Author **
+**Author**
 
 Humayra
 
