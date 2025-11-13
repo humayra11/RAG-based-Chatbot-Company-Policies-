@@ -1,4 +1,5 @@
-RAG-based Chatbot Company Policies
+**RAG-based Chatbot Company Policies**
+
  A Retrieval-Augmented Generation (RAG) chatbot that answers questions about company policies using real text retrieval and language generation. Built with LangChain, FAISS, SentenceTransformers, and Gradio. It combines vector search with an LLM to give accurate, cited, and context-aware answers.
  
 Features:
